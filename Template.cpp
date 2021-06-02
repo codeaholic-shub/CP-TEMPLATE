@@ -62,7 +62,7 @@ ll power(ll a,ll b){
     return ans;
 }
 void solve(){
-	cout<<"Hello World"<<endl;
+	
 }
 
 int main(){
